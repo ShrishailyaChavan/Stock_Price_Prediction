@@ -28,7 +28,7 @@ Launch Anaconda
 
 Open Jupyter Notebook
 
-Stock_Price_Prediction.py
+Import Stock_Price_Prediction.py
 
 Run every step and check the output
 
